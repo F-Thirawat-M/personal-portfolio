@@ -25,7 +25,7 @@
 ### 📊 ผลการเรียนรู้และคะแนนสอบ (Gradebook)
 *ประวัติการทำแบบทดสอบ Checkpoint Exams และความคืบหน้าในการเรียน*
 
-<img src="./Cisco%20Networking%20Academy/Gradebook_Checkpoint_Exams.png" alt="Cisco Academy Gradebook" width="800"/>
+<img src="Cisco Networking Academy/Checkpoint Exam.png" alt="Cisco Academy Gradebook" width="800"/>
 
 ---
 
