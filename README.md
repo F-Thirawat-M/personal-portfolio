@@ -40,10 +40,10 @@
 
 ### 📝 **[Assignments](./Assignment/)**
 *แบบฝึกหัดและการบ้านภาคทฤษฎี*
-* [Assignment 2](./Assignment/Assignment2.pdf)
-* [Assignment 4](./Assignment/Assignment%204.pdf)
 * [Personal Essay](./Assignment/personal%20essay.pdf)
+* [Assignment 2](./Assignment/Assignment2.pdf)
 * [Week 2 Sample (Packet Tracer File)](./Assignment/week2_sample1_673380039-7.pkt)
+* [Assignment 4](./Assignment/Assignment%204.pdf)
 
 ### 🧪 **[Lab Reports](./Lab/)**
 *รายงานผลการทดลองปฏิบัติการประจำสัปดาห์*
