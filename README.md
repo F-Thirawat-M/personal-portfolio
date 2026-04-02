@@ -51,7 +51,7 @@
 * [LAB 2](./Lab/LAB%202.pdf)
 * [LAB 3 - MIME](./Lab/Lab3%20—%20MIME.pdf)
 * [LAB 4](./Lab/LAB%204.pdf)
-* [LAB 5](./Lab/LAB%205.pdf)
+* [LAB 5](./Lab/LAB%205%20.pdf)
 
 ---
 *จัดทำโดย 💻 นายถิรวัฒน์ อุจินา*
