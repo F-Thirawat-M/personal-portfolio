@@ -40,15 +40,18 @@
 
 ### 📝 **[Assignments](./Assignment/)**
 *แบบฝึกหัดและการบ้านภาคทฤษฎี*
-* [Assignment 2: Network Topology Design](./Assignment/Assignment2.pdf)
-* [Assignment 4: Protocol Analysis](./Assignment/Assignment%204.pdf)
+* [Assignment 2](./Assignment/Assignment2.pdf)
+* [Assignment 4](./Assignment/Assignment%204.pdf)
 * [Personal Essay](./Assignment/personal%20essay.pdf)
+* [Week 2 Sample (Packet Tracer File)](./Assignment/week2_sample1_673380039-7.pkt)
 
 ### 🧪 **[Lab Reports](./Lab/)**
 *รายงานผลการทดลองปฏิบัติการประจำสัปดาห์*
-* [LAB 1: Basic Networking Tools](./Lab/LAB%201.pdf)
-* [LAB 2: Socket Programming Intro](./Lab/LAB%202.pdf)
-* [Lab 3: MIME Protocol Analysis](./Lab/Lab3%20—%20MIME.pdf)
+* [LAB 1](./Lab/LAB%201.pdf)
+* [LAB 2](./Lab/LAB%202.pdf)
+* [LAB 3 - MIME](./Lab/Lab3%20—%20MIME.pdf)
+* [LAB 4](./Lab/LAB%204.pdf)
+* [LAB 5](./Lab/LAB%205.pdf)
 
 ---
 *จัดทำโดย 💻 นายถิรวัฒน์ อุจินา*
