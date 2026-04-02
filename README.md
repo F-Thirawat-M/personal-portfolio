@@ -19,7 +19,7 @@
 
 | | |
 | :---: | :---: |
-| [![CCNA Certificate](./Cisco%20Networking%20Academy/CCNA-_Introduction_to_Networks_certificate_thirawat-u-kkumail-com_765723aa-ca51-4b....png)](./Cisco%20Networking%20Academy/CCNA-_Introduction_to_Networks_certificate_thirawat-u-kkumail-com_765723aa-ca51-4b....png) | [![Packet Tracer Certificate](./Cisco%20Networking%20Academy/Getting_Started_with_Cisco_Packet_Tracer_certificate_thirawat-u-kkumail-com_1e955e8b-....png)](./Cisco%20Networking%20Academy/Getting_Started_with_Cisco_Packet_Tracer_certificate_thirawat-u-kkumail-com_1e955e8b-....png) |
+| [![CCNA Certificate](Cisco Networking Academy/CCNA-_Introduction_to_Networks_certificate_thirawat-u-kkumail-com_765723aa-ca51-4b6f-b660-e17c33cf1a63.png)](Cisco Networking Academy/CCNA-_Introduction_to_Networks_certificate_thirawat-u-kkumail-com_765723aa-ca51-4b6f-b660-e17c33cf1a63.png) | [![Packet Tracer Certificate](Cisco Networking Academy/Getting_Started_with_Cisco_Packet_Tracer_certificate_thirawat-u-kkumail-com_1e955e8b-2b8e-4eff-aa88-f3e3254ea2c3.png)](Cisco Networking Academy/Getting_Started_with_Cisco_Packet_Tracer_certificate_thirawat-u-kkumail-com_1e955e8b-2b8e-4eff-aa88-f3e3254ea2c3.png) |
 | **CCNA: Introduction to Networks**<br>*ใบรับรองความรู้พื้นฐานด้านเครือข่ายคอมพิวเตอร์* | **Getting Started with Cisco Packet Tracer**<br>*ใบรับรองทักษะการใช้โปรแกรมจำลองเครือข่าย* |
 
 ### 📊 ผลการเรียนรู้และคะแนนสอบ (Gradebook)
