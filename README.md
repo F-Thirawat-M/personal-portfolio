@@ -25,7 +25,7 @@
 ### 📊 ผลการเรียนรู้และคะแนนสอบ (Gradebook)
 *ประวัติการทำแบบทดสอบ Checkpoint Exams และความคืบหน้าในการเรียน*
 
-<img src="Cisco Networking Academy/Checkpoint Exam.png" alt="Cisco Academy Gradebook" width="800"/>
+<img src="./Cisco%20Networking%20Academy/Checkpoint%20Exam.png" alt="Cisco Academy Gradebook" width="800"/>
 
 ---
 
@@ -51,4 +51,4 @@
 * [Lab 3: MIME Protocol Analysis](./Lab/Lab3%20—%20MIME.pdf)
 
 ---
-*จัดทำโดย 💻 นาย ธีรวัตน์ อุชินา*
+*จัดทำโดย 💻 นายถิรวัฒน์ อุจินา*
